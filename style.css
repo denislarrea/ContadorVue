@@ -1,0 +1,5 @@
+.clock {
+  font-size: 4em;
+  transition: color 0.5s ease-in-out;
+}
+
